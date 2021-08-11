@@ -1,0 +1,66 @@
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\ChallengeSolvex.exe
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\ChallengeSolvex.deps.json
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\ChallengeSolvex.runtimeconfig.json
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\ChallengeSolvex.runtimeconfig.dev.json
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\ChallengeSolvex.dll
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\ChallengeSolvex.pdb
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.csprojAssemblyReference.cache
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.AssemblyInfoInputs.cache
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.AssemblyInfo.cs
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.csproj.CoreCompileInputs.cache
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\staticwebassets\ChallengeSolvex.StaticWebAssets.Manifest.cache
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\staticwebassets\ChallengeSolvex.StaticWebAssets.xml
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChallengeSolvex.styles.css
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.RazorTargetAssemblyInfo.cache
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.csproj.CopyComplete
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.dll
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.pdb
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.genruntimeconfig.cache
+C:\Users\Lusan\Desktop\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\ChallengeSolvex.exe
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\ChallengeSolvex.deps.json
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\ChallengeSolvex.runtimeconfig.json
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\ChallengeSolvex.runtimeconfig.dev.json
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\ChallengeSolvex.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\ChallengeSolvex.pdb
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.csprojAssemblyReference.cache
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.AssemblyInfoInputs.cache
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.AssemblyInfo.cs
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.csproj.CoreCompileInputs.cache
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\staticwebassets\ChallengeSolvex.StaticWebAssets.Manifest.cache
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\staticwebassets\ChallengeSolvex.StaticWebAssets.xml
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChallengeSolvex.styles.css
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.RazorTargetAssemblyInfo.cache
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.csproj.CopyComplete
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.pdb
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\obj\Debug\netcoreapp3.1\ChallengeSolvex.genruntimeconfig.cache
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Lusan\Desktop\SolvexWorkshop\WorkShop challenge\ChallengeSolvex\ChallengeSolvex\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
